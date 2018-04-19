@@ -1,0 +1,1 @@
+J'ai du mettre en commentaire les contraintes car elles ne passaient pas dans phpMyAdmin
